@@ -1,0 +1,5 @@
+{
+  "[*.typ]": {
+    "editor.wordWrap": "on"
+  }
+}
