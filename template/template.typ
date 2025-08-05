@@ -10,13 +10,11 @@
 		paper: "a4",
 
 		margin: (
-			top: 4cm,
+			top: 2.5cm,
 			bottom: 2.5cm,
 			left: 2.5cm,
 			right: 2.5cm
 		),
-
-		header-ascent: 20pt,
 	)
 
 	// Set paragraphe indentation

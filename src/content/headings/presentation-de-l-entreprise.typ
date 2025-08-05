@@ -1,6 +1,8 @@
 = Présentation de l'entreprise
 
-== Présentation générale du CSEP
+== Le CSEP
+
+=== Présentation générale du CSEP
 
 Le CSEP (Centre Spatial de l'École Polytechnique) est une structure rattachée à l'École Polytechnique, financée par le LPP (Laboratoire de Physique des Plasmas) via la chaire `Espace - Sciences et Défis du Spatial` et avec pour rôle d'affirmer la présence de l'École Polytechnique au niveau académique et mondial dans le domaine du spatial.
 
@@ -10,7 +12,7 @@ Les CSU s'appuient généralement sur une équipe d'ingénieurs permanents qui a
 
 Chaque années, en complément de cette équipe, de nombreux étudiants participent activement aux projets du CSEP, que ce soit dans le cadre de cours, de projets universitaires ou de stages, conformément à la vocation pédagogique des CSU.
 
-== Les activités du CSEP
+=== Les activités du CSEP
 
 Le CSEP a été créé en 2012 pour encadrer le premier projet de nanosatellite de l'École Polytechnique, X-CubeSat, lancé en 2017 apres cinq ans de développement, et qui etait alors le premier satellite étudiant français opérationnel en orbite.
 
@@ -20,7 +22,7 @@ Depuis, le CSEP pilote plusieurs projets et initiatives, parmi lesquels :
 - L'encadrement des Projets Scientifiques Communs (PSC) menés par les étudiants de l'École Polytechnique, qui participent à des projets en cours au CSEP ou en proposent de nouveaux ;
 - La participation annuelle au programme C'Space, une campagne de lancement de fusées expérimentales étudiantes organisée en partenariat avec le CNES, à travers l'association étudiante AstronautiX.
 
-Ces activités permettent d'accueillir chaque année XX TODO d'étudiants, leur offrant une formation concrète et une porte d'entrée dans le domaine spatial.
+Ces activités permettent d'accueillir chaque année 80 étudiants, leur offrant une formation concrète et une porte d'entrée dans le domaine spatial.
 
 == Présentation du Nanolab academy
 

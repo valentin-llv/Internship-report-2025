@@ -15,7 +15,16 @@
 			// Content
 			par(justify: false, first-line-indent: 0pt)[#header-settings.text],
 			header-settings.logos
-		)
+		),
+
+		margin: (
+			top: 4cm,
+			bottom: 2.5cm,
+			left: 2.5cm,
+			right: 2.5cm
+		),
+
+		header-ascent: 20pt,
 	)
 
 	body
