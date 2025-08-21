@@ -4,6 +4,9 @@
 /* CAN */
 #include "can.typ"
 
+/* Canakari */
+#include "canakari.typ"
+
 = Architecture hardware de IonSat
 
 TODO

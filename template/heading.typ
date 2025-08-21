@@ -50,5 +50,17 @@
 		v(6pt)
 	}
 
+	// h5 styling
+	show heading.where(level: 5): he => {
+		set text(
+			size: 11pt,
+			weight: "bold",
+			fill: black,
+		)
+
+		block(he.body)
+		v(6pt)
+	}
+
 	doc
 }
