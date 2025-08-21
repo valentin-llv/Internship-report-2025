@@ -7,7 +7,7 @@
 /* Canakari */
 #include "canakari.typ"
 
-// = Architecture hardware de IonSat
+= Architecture hardware de IonSat
 
 // Ma deuxime tache a consiste en la creation d'une premiere version du hardware FPGA, representant au maximum la version finale du hardawre, afin de permettre au developper logiciel de progresser dans le developpement fixe et d'effectuer des testsavec les comosants hadware.
 
