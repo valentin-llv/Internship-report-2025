@@ -63,7 +63,7 @@
 	Introduction
 
 */
-#include "content/introduction.typ"
+#include "main/introduction/introduction.typ"
 
 
 /*
@@ -71,7 +71,7 @@
 	Technical content
 
 */
-#include "content/content.typ"
+#include "main/content/content.typ"
 
 
 /*
@@ -79,7 +79,7 @@
 	Conclusion
 
 */
-#include "content/conclusion.typ"
+#include "main/conclusion.typ"
 
 /* Disable heading numbering */
 #set heading(numbering: none)

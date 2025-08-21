@@ -21,13 +21,14 @@ Les CubeSats peuvent être lancés sur différentes orbites, selon les objectifs
 IonSat embarquera plusieurs charges utiles, dont la principale est un moteur à ions. En règle générale, les CubeSats ne disposent pas de moyen de propulsion, mais uniquement de systèmes d'orientation. Toutefois, en VLEO, la traînée atmosphérique est bien plus importante qu'à plus haute altitude, ce qui entraîne une perte progressive d'altitude. Afin de prolonger la durée de vie du satellite, le moteur à ions permettra d'effectuer des manœuvres de correction d'orbite, évitant ainsi une désorbitation prématurée.
 
 Parmi les autres charges utiles, on compte :
-- un capteur d'oxygène atomique,
-- une caméra embarquée,
-- une antenne radioamateur,
-- un capteur mesurant l'effet de l'iode sur les panneaux solaires,
-- TODO : vérifier la liste complète.
+- un capteur d'oxygène atomique, nommé Resistack et fourni par l'Onera
+- une caméra embarquée, la piCAM, pour prendre des images de la terre
+- des gyroscopes expérimentaux, fournis par le CNES dans le but d'être testés dans l'espace
+- une antenne LoRa
+- une antenne radioamateur UHF / VHF
+- un capteur mesurant l'effet de l'iode sur les panneaux solaires, fourni par le Von Karman Institute
 
-Le lancement d'IonSat est actuellement prévu pour courant 2026, mais cette date reste à confirmer en fonction de l'avancement du projet.
+Le lancement d'IonSat est actuellement prévu pour courant 2026, mais cette date reste à confirmer en fonction de l'avancement du projet, et des disponibilités des lanceurs.
 
 === L'équipe du projet IonSat
 
@@ -61,6 +62,14 @@ Le développement d'un satellite suit un processus normé, structuré en plusieu
 		[Phase F], [Fin de vie / Retrait de service]
 	),
 )]
+
+=== Présentation du Nanolab academy
+
+Dans le cadre de son nouveau projet de nanosatellite, le CSEP participe au programme Nanolab Academy piloté par le CNES. Ce programme a pour objectif d'accompagner les Centres Spatiaux Universitaires (CSU) dans la conception et la réalisation de leurs satellites. Le CNES y joue un rôle de soutien technique en fournissant à la fois des bases technologiques, des documents de référence et une plateforme de partage de connaissances destinée à faciliter le développement des projets.
+
+Le CNES a notamment développé, dans le cadre de ce programme, le nanosatellite EyeSat, lancé en 2019 et resté opérationnel pendant quatre ans et finalise actuellement un nouveau projet, AeroSat, dont le lancement est prévu pour début 2026.
+
+Les composants matériels et logiciels conçus pour EyeSat et AeroSat ont été mis à disposition des CSU partenaires. Ces éléments servent de base technique commune sur laquelle chaque CSU peut s'appuyer pour intégrer ses propres sous-systèmes et développer des fonctionnalités spécifiques.
 
 == Sujets et objectifs du stage
 
