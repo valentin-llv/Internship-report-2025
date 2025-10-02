@@ -88,7 +88,7 @@
 #include "end/bibliography.typ"
 
 /* Annexe 1 : auto-evaluation */
-#include "end/annexe-1.typ"
+// #include "end/annexe-1.typ"
 
 /* Autres annexes */
-#include "end/annexes.typ"
+// #include "end/annexes.typ"
